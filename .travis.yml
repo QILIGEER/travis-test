@@ -2,3 +2,5 @@ language: bash
 script:
   echo "test2, start."
   -./test2
+  echo"test.sh, start."
+  -./test.sh
